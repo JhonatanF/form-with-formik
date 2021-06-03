@@ -72,6 +72,7 @@ export const Signup = () => {
             <TextField label="Cidade" name="city" type="text" />
             <TextField label="Estado" name="state" type="text" />
             <TextField label="CEP" name="cep" type="number" />
+            <TextField label="Tipo (ALUNO ou PROFESSOR)" name="tipo" type="text" />
 
 
 
